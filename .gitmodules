@@ -4,3 +4,6 @@
 [submodule "vim-easytags"]
 	path = vim-easytags
 	url = https://github.com/xolox/vim-easytags.git
+[submodule "vim-autotag"]
+	path = vim-autotag
+	url = https://github.com/craigemery/vim-autotag.git
